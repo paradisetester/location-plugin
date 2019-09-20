@@ -1,0 +1,118 @@
+form.form-horizontal.sf-column-names {
+    margin-bottom: 10px;
+}
+
+input#submit {
+    float: left;
+    background-color: #3a75bb;
+    border: none;
+    height: 35px;
+}
+input#file {
+    float: left;
+    width: 85%;
+    border: 1px solid #ddd;
+    margin: 0 10px 6px 0;
+    height: 35px;
+    padding: 6px 6px;
+}
+button#deletePostcodesTriger {
+    background-color: red;
+    border: none;
+    color: #fff;
+    margin: 0 0 15px 15px;
+}
+form.form-horizontal.sf-by-provider {
+    margin-top: 20px;
+}
+#wpwrap {
+    overflow: hidden;
+}
+.toplevel_page_wp-locations .table-responsive {
+    overflow: hidden;
+}
+form.form-horizontal.sf-column-names input {
+    height: 35px;
+    border: 1px solid #ddd;
+    width: 23%;
+    float: left;
+    margin: 0 5px;
+}
+form.form-horizontal.sf-column-names button#submit {
+    height: 35px;
+    background-color: #3a75bb;
+    color: #fff;
+    border: none;
+}
+table#providers-zip th.sorting {
+    padding-left: 0;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    float: left;
+    margin: 0 8px 0 0;
+}
+label.custom-file-upload input[type="file"] {
+    display: none;
+}
+.sedate-title h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+form.form-horizontal.sf-by-provider label {
+    margin-bottom: 10px;
+}
+label.custom-file-upload div.wp-menu-image:before {
+    color: #000;
+    transform: rotate(180deg);
+    padding: 0px 0;
+}
+.import {
+    float: right;
+}
+
+form.form-horizontal.sf-by-provider {
+    display: inline-block;
+    text-align: left;
+    padding: 0px 20px;
+}
+.import .form-group {
+    margin: 0 !important;
+}
+form.edit_form .forms-group {
+    display: flex;
+    margin-bottom: 10px;
+}
+form.edit_form .forms-group label {
+    width: 150px;
+    padding: 8px 0 0;
+}
+form.edit_form .forms-group input {
+    width: 100%;
+    height: 35px;
+    box-shadow: none;
+}
+form.edit_form  .forms-group input.submitBtn {
+    width: 120px;
+    margin: 15px auto 0;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:1199px){
+form.form-horizontal.sf-column-names input {
+    margin: 0 3px;
+}
+form.form-horizontal.sf-column-names button#submit {
+    padding: 0 9px;
+}    
+}

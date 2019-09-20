@@ -20,3 +20,8 @@
  ``````````
  [location_phone_number]
  ``````````
+
+##Functionalit
+* Add/Edit Location.
+* Import/Export CSV.
+* Redirection on the url if city match.
